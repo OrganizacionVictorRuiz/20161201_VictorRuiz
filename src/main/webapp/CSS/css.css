@@ -1,0 +1,70 @@
+body {
+    text-align: center;
+}
+
+.prim {
+    border-radius: 5px 5px;
+    background-color: #99ff33;
+    padding: 20px;
+    text-align: center;
+    font: 20px arial;
+    color: white;
+    margin-left: 40px;
+    width: 60%;
+}
+
+.ver {
+    border-radius: 5px 5px;
+    background-color: #ffff00;
+    padding: 20px;
+    text-align: center;
+    font: 20px arial;
+    color: black;
+    margin-left: 40px;
+    width: 60%;
+}
+
+.oto {
+    border-radius: 5px 5px;
+    background-color: #ff6600;
+    padding: 20px;
+    text-align: center;
+    font: 20px arial;
+    color: yellow;
+    margin-left: 40px;
+    width: 60%;
+}
+
+.inv {
+    border-radius: 5px 5px;
+    background-color: #6699ff;
+    padding: 20px;
+    text-align: center;
+    font: 20px arial;
+    color: black;
+    margin-left: 40px;
+    width: 60%;
+}
+
+.bebe {
+    background-color: white;
+}
+
+.adolescente {
+    background-color: cyan;
+}
+
+.joven {
+    background-color: purple;
+    color: white;
+}
+
+.adulto {
+    background-color: orange;
+}
+
+.anciano {
+    background-color: black;
+    color: white;
+    
+}
